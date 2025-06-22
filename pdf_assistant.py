@@ -9,7 +9,7 @@ import os
 from fpdf import FPDF  # ✅ For PDF export
 
 # Replace with your Groq API key
-GROQ_API_KEY = "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"  # 🔐 Use your actual key securely
+GROQ_API_KEY = "API_KEY" 
 
 # Load LLaMA3 LLM from Groq
 llm_shared = ChatGroq(
