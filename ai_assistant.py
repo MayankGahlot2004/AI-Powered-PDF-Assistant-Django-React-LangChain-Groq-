@@ -9,7 +9,7 @@ from fpdf import FPDF
 import fitz
 import os
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API_KEY"
 PDF_PATH = "C:\\Users\\mayan\\OneDrive\\Desktop\\Assistant\\CSE332.pdf"
 EMBED_MODEL = "nomic-embed-text"
 
